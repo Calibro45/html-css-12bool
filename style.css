@@ -6,6 +6,11 @@ html {
     white-space: nowrap;
 }
 
+h2 {
+    color: black;
+    text-align: left;
+}
+
 .blu {
     background-color: #006cfa;
     border: 1px solid white;
