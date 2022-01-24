@@ -11,18 +11,15 @@ body {
 
 .red {
     background-color: #a52b29;
-    border: 1px solid black;
     height: 10px;   
 }
 
 .yellow {
     background-color: #fac76c;
-    border: 1px solid black;   
     height: 10px;
 }
 
 .white {
     background-color: white;
-    border: 1px solid black;   
     height: 10px;
 }
