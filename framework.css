@@ -27,10 +27,24 @@
     padding: 20px;
 }
 
+.padding-40 {
+    padding: 40px;
+}
+
 /* margin */
 
 .margin-bottom-10 {
     margin-bottom: 10px;
+}
+
+/* height */
+
+.height-150 {
+    height: 150px;
+}
+
+.height-50 {
+    height: 50px;
 }
 
 /* justify content */
@@ -46,6 +60,22 @@
 .content-end {
     justify-content: flex-end;
 }
+
+/* align */
+
+.align-start {
+    align-items: flex-start;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.align-end {
+    align-items: flex-end;
+}
+
+
 
 /* colonne */
 
