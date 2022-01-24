@@ -1,0 +1,19 @@
+.container-fluid {
+    max-width: 480px;
+    height: 716px;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+
+
+.red {
+    background-color: #a52b29;
+    border: 1px solid black;
+    height: 10px;   
+}
+
+.yellow {
+    background-color: #fac76c;
+    border: 1px solid black;   
+    height: 10px;
+}
