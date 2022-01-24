@@ -6,9 +6,10 @@ html {
     white-space: nowrap;
 }
 
-h2 {
+h2,h4 {
     color: black;
     text-align: left;
+    line-height: 1.2;
 }
 
 .blu {

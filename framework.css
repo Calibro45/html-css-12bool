@@ -61,6 +61,14 @@
     justify-content: flex-end;
 }
 
+.content-between {
+    justify-content: space-between;
+}
+
+.content-around {
+    justify-content: space-around;
+}
+
 /* align */
 
 .align-start {
@@ -74,8 +82,6 @@
 .align-end {
     align-items: flex-end;
 }
-
-
 
 /* colonne */
 
