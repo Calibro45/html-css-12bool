@@ -23,6 +23,16 @@
     padding: 10px;
 }
 
+.padding-20 {
+    padding: 20px;
+}
+
+/* margin */
+
+.margin-bottom {
+    margin-bottom: 10px;
+}
+
 /* colonne */
 
 .col-1 {
