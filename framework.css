@@ -33,6 +33,20 @@
     margin-bottom: 10px;
 }
 
+/* justify content */
+
+.content-start {
+    justify-content: flex-start;
+}
+
+.content-center {
+    justify-content: center;
+}
+
+.content-end {
+    justify-content: flex-end;
+}
+
 /* colonne */
 
 .col-1 {
