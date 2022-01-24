@@ -1,6 +1,17 @@
+html {
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    line-height: 3rem;
+    white-space: nowrap;
+}
+
 .blu {
     background-color: #006cfa;
     border: 1px solid white;
-    color: white;
-    text-align: center;
+}
+
+.green {
+    background-color: #00e165;
+    border: 1px solid #006cfa;
 }
