@@ -1,10 +1,13 @@
+body {
+    background-color: black;
+}
+
 .container-fluid {
     max-width: 480px;
     height: 716px;
     margin: 0 auto;
-    padding-top: 100px;
+    padding-top: 50px;
 }
-
 
 .red {
     background-color: #a52b29;
